@@ -1,0 +1,9 @@
+{
+  "name": "feature-flag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "unleash-client": "^6.9.6"
+  }
+}
