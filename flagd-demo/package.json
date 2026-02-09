@@ -1,0 +1,14 @@
+{
+	"name": "flagd-demo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"license": "MIT",
+	"dependencies": {
+		"@grpc/grpc-js": "^1.14.3",
+		"@openfeature/core": "^1.9.1",
+		"@openfeature/flagd-core": "^1.1.0",
+		"@openfeature/flagd-provider": "^0.13.3",
+		"@openfeature/server-sdk": "^1.20.1"
+	}
+}
